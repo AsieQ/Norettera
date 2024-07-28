@@ -1,0 +1,5 @@
+Baron Hans Giftschlange jest 50 letnim człowiekiem. Jest znany ze swojego umiłowania do wygody i wystawnych balów, które często organizuje w podległym mu [[Infectum]].  Stanowisko zarządcy tego miasta uzyskał ze względu na swoje wpływy w Radzie Axilium.
+
+Hans Giftschlange zaczynał swoją karierę jako pomniejszy kupiec, który dorobił się majątku poprzez za morski handel z Królestwem NahDuk. Nieoficjalne źródła mówią, że dopuszczał się handlu niewolnikami, który jest zabroniony na ziemiach Uniru ("... Tak więc suwerenność Rady, wolność podwładnych." ). 
+
+Baron nie posiada obecnie żadnego potomka, ani małżonki. Jego poprzednia żona Odalia Giftschlange została zamordowana w wyniku zamachu na życie barona. Brak naturalnego następcy Giftschlange'a powoduje liczne napięcia, zarówno w stolicy jak i wśród szlachciców Infectum.

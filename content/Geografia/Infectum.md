@@ -10,7 +10,7 @@ Pod okiem panującego tu od ok. 20 lat Barona Giftschlange najzamożniejsze rody
 ![[Infectum.png]]
 
 **Twierdza Północy**
-Siedziba barona Giftschlange. Potężny budynek w stylu romańskim, o czarnym ozdobionym maszkaronami dachu. 
+Siedziba barona [[Giftschlange]]. Potężny budynek w stylu romańskim, o czarnym ozdobionym maszkaronami dachu. 
 Jest to miejsce często odwiedzane przez wyższe warstwy społeczne, jako, że baron lubuje się w wystawnych bankietach i balach. Jako, że Infectum leży na wodnym szlaku z miasta Gyros i pośredniczy w handlu są to wydarzenia niezwykle prestiżowe.
 
 **Dystrykt rzeczny**
