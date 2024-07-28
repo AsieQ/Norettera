@@ -1,7 +1,7 @@
 ---
-title: Example Title
+title: Legenda trzech magów
 draft: false
-tags: []
+tags:
 ---
 Legenda trzech magów opowiada o trójce przyjaciół; dwójce ludzi Skrinnterze i Czelewie oraz drakonie Karnirze. Każdy z nich użyczył swej wielkiej magicznej mocy, aby pomóc uwięzić smoki poza strefą materialną Noreterri.
 

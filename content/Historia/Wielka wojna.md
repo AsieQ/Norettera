@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Wielka wojna
 draft: false
 tags:
 ---
