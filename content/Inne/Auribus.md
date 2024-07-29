@@ -1,6 +1,6 @@
 Auribus (z łac. w uszach) to stosunkowo niegroźny narkotyk, który zyskał swoją popularność w Królestwie Uniru. Głównym składnikiem produkcyjnym są starannie przetworzone liście rośliny zwanej Łuską Mgły. Gotową substancję w postaci podobnego do masła kremu rozprowadza się pod językiem.
 
-![[Pasted image 20240729093251.png]]
+![[fog scales.png]]
 
 Efekty zażywania Auribus'a zależą od tego jak długo dana istota była wystawiona na działanie substancji. 
 Wśród osób zażywających roślinę nie więcej niż przez 5 minut zaobserwowano natychmiastowe poprawienie samopoczucia, poczucie wewnętrznego spokoju i zanik reumatyzmu. Z tego powodu wywar jest stosowany jako lekarstwo dla znerwicowanych. Proces wymaga jednak uważnego medyka, który na podstawie obserwacji pacjenta będzie w stanie określić kiedy należy przepłukać buzię wodą jako, że czas w którym substancja się wchłania może się różnić w zależności od jednostki.
