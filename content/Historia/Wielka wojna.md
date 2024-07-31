@@ -3,7 +3,7 @@ title: Wielka wojna
 draft: false
 tags:
 ---
-Po tym jak [[Trzech magów]] wygnało smoki i zniknął wspólny wróg, który dotychczas łączył nieprzepadające za sobą rasy Krasnoludów i Orków, różne ugrupowania zaczęły konkurować między sobą o władzę. Doprowadziło to do tzw. Wielkiej Wojny, która objęła sobą prawie całe ziemie Noretteri. Finał walk miał miejsce na Wielkich Mokradłach, gdzie zjednoczone siły Niezależnego miasta Gyros i Armii Ziem Zachodnich pokonały potęgę wojska orczego współpracującego z Republiką Krasnoludów i Ludzi Wielkiego Półwyspu.
+Po tym jak [[Trzech magów]] wygnało smoki i zniknął wspólny wróg, który dotychczas łączył nieprzepadające za sobą rasy Krasnoludów i Orków, różne ugrupowania zaczęły konkurować między sobą o władzę. Doprowadziło to do tzw. Wielkiej Wojny, która objęła sobą prawie całe ziemie Noretteri. Finał walk miał miejsce na Wielkich Mokradłach, gdzie zjednoczone siły Niezależnego miasta [[Gyros]] i Armii Ziem Zachodnich pokonały potęgę wojska orczego współpracującego z Republiką Krasnoludów i Ludzi Wielkiego Półwyspu.
 
 Wygrała strona zachodnia.
 
